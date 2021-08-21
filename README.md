@@ -2,9 +2,13 @@
 
 #### This Program is creat by me with little oop concepts:
 1)Inharitance(Animal->cat>dog)
+
 2)Encapsulation(Animal)
+
 3)methodOverloading(constructor with different parameters)
+
 4)methodOverriding(polymorphisom)
+
 5)Interface(AnimalWork)
 
 ## UML
